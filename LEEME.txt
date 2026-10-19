@@ -16,3 +16,5 @@ Para probar la copia usa el enlace HTTPS publicado: al abrir index.html como arc
 VERSIÓN ADAPTADA A CELULARES
 Encabezado y campos compactos en pantallas de hasta 600 px, con ajuste adicional según la altura.
 Si ya publicaste la versión anterior, reemplaza index.html y styles.css en GitHub (los demás archivos no cambiaron).
+
+AJUSTE MÓVIL: logo centrado sobre el nombre, como en el diseño original. Reemplazar index.html y styles.css en GitHub.
