@@ -12,3 +12,7 @@ Los seis campos se editan en datos.js. Se utilizó César Lepin como titular, se
 
 No requiere instalación ni compilación. La confirmación animada está incluida en el código.
 Para probar la copia usa el enlace HTTPS publicado: al abrir index.html como archivo local el portapapeles puede variar según el navegador.
+
+VERSIÓN ADAPTADA A CELULARES
+Encabezado y campos compactos en pantallas de hasta 600 px, con ajuste adicional según la altura.
+Si ya publicaste la versión anterior, reemplaza index.html y styles.css en GitHub (los demás archivos no cambiaron).
