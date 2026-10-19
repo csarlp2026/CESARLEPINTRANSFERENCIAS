@@ -1,0 +1,14 @@
+CÉSAR LEPIN · PÁGINA DE TRANSFERENCIAS
+
+PUBLICAR EN GITHUB PAGES
+1. Descomprime el ZIP.
+2. Sube index.html, styles.css, app.js, datos.js y la carpeta assets a la raíz del repositorio.
+3. Conserva assets/logo.jpeg dentro de su carpeta. Puedes arrastrar la carpeta completa desde tu computador a Add file > Upload files.
+4. En Settings > Pages, selecciona Deploy from a branch, rama main, carpeta / (root) y guarda.
+5. Abre el enlace HTTPS entregado por GitHub Pages.
+
+DATOS BANCARIOS
+Los seis campos se editan en datos.js. Se utilizó César Lepin como titular, según el nombre indicado; si el banco requiere su nombre completo, actualiza titular antes de publicar.
+
+No requiere instalación ni compilación. La confirmación animada está incluida en el código.
+Para probar la copia usa el enlace HTTPS publicado: al abrir index.html como archivo local el portapapeles puede variar según el navegador.
